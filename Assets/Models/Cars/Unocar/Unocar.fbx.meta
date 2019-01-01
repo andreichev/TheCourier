@@ -10,23 +10,33 @@ ModelImporter:
     100004: //RootNode
     100006: Headlights
     100008: Wheel
+    100010: Corpus
+    100012: Lights
     400000: Body
     400002: Bumper
     400004: //RootNode
     400006: Headlights
     400008: Wheel
+    400010: Corpus
+    400012: Lights
     2300000: Body
     2300002: Bumper
     2300004: Headlights
     2300006: Wheel
+    2300008: Corpus
+    2300010: Lights
     3300000: Body
     3300002: Bumper
     3300004: Headlights
     3300006: Wheel
+    3300008: Corpus
+    3300010: Lights
     4300000: Bumper
     4300002: Headlights
     4300004: Wheel
     4300006: Body
+    4300008: Corpus
+    4300010: Lights
     9500000: //RootNode
   materials:
     importMaterials: 1
