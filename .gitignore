@@ -1,10 +1,10 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Aa]ssets/AssetStoreTools*
+TheCourier/[Ll]ibrary/
+TheCourier/[Tt]emp/
+TheCourier/[Oo]bj/
+TheCourier/[Bb]uild/
+TheCourier/[Bb]uilds/
+TheCourier/[Ll]ogs/
+TheCourier/[Aa]ssets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
@@ -41,4 +41,4 @@ sysinfo.txt
 *.unitypackage
 
 # Crashlytics generated file
-Assets/StreamingAssets/crashlytics-build.properties
+TheCourier/Assets/StreamingAssets/crashlytics-build.properties
